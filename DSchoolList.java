@@ -15,4 +15,5 @@ public class DSchoolList{
         for (int i=0; i<schools.size(); i++){
             System.out.print(schools.get(i));
         }
+    }
 }
